@@ -1,4 +1,4 @@
-#Ezt tanár úrnak nem kell megnézni, csak megakartam csiinálni objektumokkal
+#Ezt tanár úrnak nem kell megnézni, csak megakartam csinálni objektumokkal
 
 #2. feladat
 class Country:
